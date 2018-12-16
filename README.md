@@ -49,7 +49,13 @@ My touch bar preset inspired by [GoldenChaos-BTT](https://community.folivora.ai/
 
 ### Usage
 
-- Two finger swipe to 
+- Go to [releases](https://github.com/BB9z/BetterTouchTool-B9Presets/releases) page to install.
+
+    It is recommended to back up your settings first.
+
+- Two finger swipe to change volume, with <kbd>shift</kbd> can change screen brightness.
+
+- Available out of the box, use it directly. Modify to meet your needs. There is no setting.
 
 ## BTTPresetBeautify
 
