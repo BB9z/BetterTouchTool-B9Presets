@@ -33,7 +33,7 @@ My touch bar preset inspired by [GoldenChaos-BTT](https://community.folivora.ai/
 - Energy efficient.
 
     Only run script at necessary time.
-    No script widgets are executed periodically at this time. [ref](https://community.folivora.ai/t/updated-testing-the-battery-life-impact-of-applescript-widgets/3189)
+    No script widgets are executed periodically at this time. [ref](https://community.folivora.ai/t/updated-testing-the-battery-life-impact-of-applescript-widgets/3189)
 
 - Other application presents
 
@@ -59,7 +59,7 @@ My touch bar preset inspired by [GoldenChaos-BTT](https://community.folivora.ai/
 
 ## BTTPresetBeautify
 
-A command line tool to format BetterTouchTool preset files.
+A command line tool to format BetterTouchTool preset files.
 
 - Keeps JSON keys in order.
 - Sort application group in preset file, keeps Global first.
