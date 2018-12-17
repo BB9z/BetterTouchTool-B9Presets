@@ -41,7 +41,7 @@ My touch bar preset inspired by [GoldenChaos-BTT](https://community.folivora.ai/
 
 ### Quick Reference
 
-- Four finger swipe down to toggle BTT touch bar.
+- Four finger swipe down or tap the BetterTouchTool (in Control Strip) button to toggle BTT touch bar.
 - Hold <kbd>control</kbd> to show window control menu.
 - Hold <kbd>option</kbd> to show system control menu.
 - Hold <kbd>shift</kbd> for alternate oprations.
@@ -56,10 +56,17 @@ My touch bar preset inspired by [GoldenChaos-BTT](https://community.folivora.ai/
 - Available out of the box, use it directly. Modify to meet your needs. There is no setting.
 
 - Recommand setting:
-    ![BTT touch bar setting](doc_assets
-    /touchbar_btt_setting.png)
+    ![BTT touch bar setting](doc_assets/touchbar_btt_setting.png)
 
 - Two finger swipe to change volume, with <kbd>shift</kbd> can change screen brightness.
+
+### Principle
+
+- B9TouchBar is designed to complement the system touch bar, not a replacement.
+
+- Avoid using third-party binary. Avoid additional installation steps.
+
+- Never simulate a control strip as a replacement.
 
 ## BTTPresetBeautify
 
