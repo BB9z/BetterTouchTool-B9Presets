@@ -26,7 +26,7 @@
           "BTTOrder" : 0,
           "BTTPredefinedActionName" : "No Action",
           "BTTPredefinedActionType" : -1,
-          "BTTTouchBarButtonName" : "B9TouchBar",
+          "BTTTouchBarButtonName" : "B9TouchBar v0.1.1",
           "BTTTriggerClass" : "BTTTriggerTypeTouchBar",
           "BTTTriggerType" : 629,
           "BTTTriggerTypeDescription" : "Touch Bar button",
@@ -111,7 +111,7 @@
             "BTTTouchBarItemPadding" : -10,
             "BTTTouchBarItemPlacement" : 2,
             "BTTTouchBarLine1Format" : "{title} - {artist}",
-            "BTTTouchBarLine1MaxChars" : 20,
+            "BTTTouchBarLine1MaxChars" : 32,
             "BTTTouchBarLine2MaxChars" : 20
           },
           "BTTTriggerType" : 652,
@@ -1911,7 +1911,7 @@
             "BTTTouchBarButtonColor" : "0.000000, 0.000000, 0.000000, 255.000000",
             "BTTTouchBarButtonCornerRadius" : 6,
             "BTTTouchBarButtonFontSize" : 20,
-            "BTTTouchBarDateFormat" : "HH:MM",
+            "BTTTouchBarDateFormat" : "HH:mm",
             "BTTTouchBarDateWidgetTimeZone" : 8,
             "BTTTouchBarFreeSpaceAfterButton" : 5,
             "BTTTouchBarItemIconHeight" : 22,
@@ -2580,5 +2580,5 @@
   "BTTPresetSnapAreas" : [
 
   ],
-  "BTTPresetUUID" : "39E357C0-8800-4399-867D-B119DDC8FA76"
+  "BTTPresetUUID" : "3FD886B0-EC27-4DD8-9518-8FD66906D556"
 }
