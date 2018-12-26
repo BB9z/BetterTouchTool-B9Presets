@@ -32,12 +32,11 @@ My touch bar preset inspired by [GoldenChaos-BTT](https://community.folivora.ai/
 
 - Energy efficient.
 
-    Only run script at necessary time.
-    No script widgets are executed periodically at this time. [ref](https://community.folivora.ai/t/updated-testing-the-battery-life-impact-of-applescript-widgets/3189)
+    Only run script at necessary time. Avoid them executed periodically. [ref](https://community.folivora.ai/t/updated-testing-the-battery-life-impact-of-applescript-widgets/3189)
 
 - Other application presents
 
-    Opera, Xcode
+    Finder, Opera, Xcode
 
 ### Quick Reference
 
